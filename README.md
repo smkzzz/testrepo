@@ -14,6 +14,7 @@ Upload your files to your github repository. Paste the link below. (The same lin
 ```
 
 # <h4>A preview of the website</h4>
+<small>Check it live <a href="https://allan.gurls02.repl.co/">here</a></small>
 <p align="left">
 <br>
   <img src="https://github.com/smkzzz/testrepo/blob/main/images/preview.png?raw=true" width="350" title="HTML Exercise Preview">
